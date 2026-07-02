@@ -364,12 +364,48 @@ DESCRIPTION:F1 GP Austria 2026 - Grand Prix\nHorario España: domingo 28 de juni
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f1-2026-gran-bretana@racing-calendars
-DTSTAMP:20260310T211642Z
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-SUMMARY:🏎️ F1 - GP Gran Bretaña
-DESCRIPTION:Gran Premio de Fórmula 1 2026 - Gran Bretaña
+UID:f1-2026-gran-bretana-practice-1@racing-calendars
+DTSTAMP:20260702T120000Z
+DTSTART:20260703T103000Z
+DTEND:20260703T113000Z
+SUMMARY:🏎️ F1 - GP Gran Bretaña (Practice 1)
+DESCRIPTION:F1 GP Gran Bretaña 2026 - Practice 1\nHorario España: viernes 3 de julio, 12:30-13:30 CEST
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-gran-bretana-sprint-qualifying@racing-calendars
+DTSTAMP:20260702T120000Z
+DTSTART:20260703T143000Z
+DTEND:20260703T151400Z
+SUMMARY:🏎️ F1 - GP Gran Bretaña (Sprint Qualifying)
+DESCRIPTION:F1 GP Gran Bretaña 2026 - Sprint Qualifying\nHorario España: viernes 3 de julio, 16:30-17:14 CEST
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-gran-bretana-sprint@racing-calendars
+DTSTAMP:20260702T120000Z
+DTSTART:20260704T100000Z
+DTEND:20260704T110000Z
+SUMMARY:🏎️ F1 - GP Gran Bretaña (Sprint)
+DESCRIPTION:F1 GP Gran Bretaña 2026 - Sprint\nHorario España: sábado 4 de julio, 12:00-13:00 CEST
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-gran-bretana-qualifying@racing-calendars
+DTSTAMP:20260702T120000Z
+DTSTART:20260704T140000Z
+DTEND:20260704T150000Z
+SUMMARY:🏎️ F1 - GP Gran Bretaña (Qualifying)
+DESCRIPTION:F1 GP Gran Bretaña 2026 - Qualifying\nHorario España: sábado 4 de julio, 16:00-17:00 CEST
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-gran-bretana-grand-prix@racing-calendars
+DTSTAMP:20260702T120000Z
+DTSTART:20260705T130000Z
+DTEND:20260705T150000Z
+SUMMARY:🏎️ F1 - GP Gran Bretaña (Grand Prix)
+DESCRIPTION:F1 GP Gran Bretaña 2026 - Grand Prix\nHorario España: domingo 5 de julio, 15:00 CEST
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

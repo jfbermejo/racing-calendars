@@ -1,6 +1,6 @@
 # Racing Calendars - instrucciones de mantenimiento
 
-Este proyecto proporciona ficheros ICS con el calendario de MotoGP y F1 para 2026.
+Este proyecto proporciona ficheros ICS con el calendario de MotoGP y F1 para 2027.
 
 ## Objetivo
 

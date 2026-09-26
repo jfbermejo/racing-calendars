@@ -1,12 +1,12 @@
 # Racing Calendars
 
-Calendarios ICS de MotoGP y Formula 1 para la temporada 2026.
+Calendarios ICS de MotoGP 2027 y Formula 1 2026.
 
 El objetivo de este repositorio es tener URLs publicas que se puedan importar desde una app de calendario, por ejemplo en el movil, y recibir las actualizaciones conforme se vayan publicando los horarios de cada Gran Premio.
 
 ## Calendarios disponibles
 
-- MotoGP 2026: https://raw.githubusercontent.com/jfbermejo/racing-calendars/main/motogp.ics
+- MotoGP 2027: https://raw.githubusercontent.com/jfbermejo/racing-calendars/main/motogp.ics
 - F1 2026: https://raw.githubusercontent.com/jfbermejo/racing-calendars/main/f1.ics
 
 Puedes usar esas URLs para suscribirte a los calendarios desde Google Calendar, Apple Calendar, Outlook u otra aplicacion compatible con calendarios remotos ICS.
